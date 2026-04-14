@@ -164,3 +164,4 @@ def predict():
 if __name__ == '__main__':
     debug_mode = os.getenv('FLASK_DEBUG', 'false').lower() == 'true'
     app.run(debug=debug_mode)
+    app.run(host="0.0.0.0", port=10000)
