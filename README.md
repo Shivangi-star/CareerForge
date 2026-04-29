@@ -1,1 +1,1 @@
-# Fake_News_Detector
+AI-Powered Fake News Detection & Credibility Checker
