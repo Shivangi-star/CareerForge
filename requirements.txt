@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+python-dotenv
+pypdf
+Pillow
+opencv-python-headless
+streamlit-webrtc
+av
+SpeechRecognition
+pymongo
+openpyxl
