@@ -1,0 +1,73 @@
+[
+  {
+    "username": "Shivangi",
+    "question": "1. Can you implement a simple sorting algorithm like quicksort or mergesort in Python, and explain the time complexity?",
+    "answer": "",
+    "feedback": "Score: 0\nFeedback: No answer was provided for this question. Please attempt the question next time.",
+    "score": 0.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-08T22:09:08.070213"
+  },
+  {
+    "username": "Shivangi",
+    "question": "2. Suppose you have a dataset of user interactions with a recommendation system, where each interaction is represented as a JSON object containing user ID, item ID, and timestamp. Write a Pandas query to find the top 5 most popular items among users who interacted with them within the last hour.",
+    "answer": "",
+    "feedback": "Score: 0\nFeedback: No answer was provided for this question. Please attempt the question next time.",
+    "score": 0.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-08T22:09:16.310195"
+  },
+  {
+    "username": "Shivangi",
+    "question": "3. Design a scalable architecture for a real-time analytics dashboard that fetches data from a MongoDB database and visualizes it using D3.js. How would you ensure low latency and high availability in your design?",
+    "answer": "",
+    "feedback": "Score: 0\nFeedback: No answer was provided for this question. Please attempt the question next time.",
+    "score": 0.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-08T22:09:28.964866"
+  },
+  {
+    "username": "Shivangi",
+    "question": "1. Can you implement a simple graph traversal algorithm (e.g., DFS or BFS) using Python's adjacency list representation? How would you optimize its performance for large graphs?",
+    "answer": "",
+    "feedback": "Score: 0\nVerdict: Incorrect\nFeedback: No answer was provided for this question.\nSuggestion: Attempt every question, even a partial answer earns more credit than silence.",
+    "verdict": "Incorrect",
+    "suggestion": "Attempt every question, even a partial answer earns more credit than silence.",
+    "score": 0.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-09T13:55:10.359964"
+  },
+  {
+    "username": "Shivangi",
+    "question": "2. Describe how you would design a scalable and efficient system to store and query large amounts of image metadata, considering the use cases presented in Shivangi's AI Credibility Verifier project.",
+    "answer": "I would store the images in object storage and keep their metadata in MongoDB or PostgreSQL. I would index fields like image hash, timestamp, source, and credibility score for fast queries. For scalability, I would use partitioning or sharding, Redis caching, and asynchronous processing through a message queue for metadata extraction and AI analysis. I would also use replication, backups, and access control to ensure reliability and security",
+    "feedback": "Score: 8\nVerdict: Correct\nFeedback: The candidate provides a clear and relevant approach to designing a scalable system for storing and querying image metadata. However, the answer could benefit from more detail on the specific design choices made.\nSuggestion: To further improve this answer, the candidate could provide specific examples or metrics that demonstrate the scalability and efficiency of their chosen architecture.",
+    "verdict": "Correct",
+    "suggestion": "To further improve this answer, the candidate could provide specific examples or metrics that demonstrate the scalability and efficiency of their chosen architecture.",
+    "score": 8.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-09T13:57:34.328119"
+  },
+  {
+    "username": "Shivangi",
+    "question": "3. Suppose you're given a dataset containing user interactions (e.g., clicks, scrolls) on a website, and you need to predict which users are likely to churn based on their behavior. How would you approach this problem using Python's scikit-learn library, and what features would you extract from the data?",
+    "answer": "",
+    "feedback": "Score: 0\nVerdict: Incorrect\nFeedback: No answer was provided for this question.\nSuggestion: Attempt every question, even a partial answer earns more credit than silence.",
+    "verdict": "Incorrect",
+    "suggestion": "Attempt every question, even a partial answer earns more credit than silence.",
+    "score": 0.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-09T13:57:44.972659"
+  },
+  {
+    "username": "Shivangi",
+    "question": "1. Can you implement a simple binary search algorithm to find an element in a sorted array of size n, where n is provided as input? How would you optimize its time complexity?",
+    "answer": "",
+    "feedback": "Score: 0\nVerdict: Incorrect\nFeedback: No answer was provided for this question.\nSuggestion: Attempt every question, even a partial answer earns more credit than silence.",
+    "verdict": "Incorrect",
+    "suggestion": "Attempt every question, even a partial answer earns more credit than silence.",
+    "score": 0.0,
+    "interview_type": "Technical Interview",
+    "timestamp": "2026-08-12T11:37:57.491534"
+  }
+]
